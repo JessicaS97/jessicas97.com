@@ -8,7 +8,7 @@ https://jessicas97.github.io/
 https://jessicajsportfolio.github.io/
 
 ## Third Website
-https://determined-edison-35868d.netlify.com/
+https://jessicas97.netlify.com/
 
 ## Built with
 * JavaScript
