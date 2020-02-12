@@ -8,7 +8,7 @@ https://jessicas97.github.io/
 https://jessicajsportfolio.github.io/
 
 ## Third Website
-https://jessicas97.design
+http://jessicas97.design
 
 ## Built with
 * JavaScript
