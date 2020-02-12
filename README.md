@@ -8,7 +8,7 @@ https://jessicas97.github.io/
 https://jessicajsportfolio.github.io/
 
 ## Third Website
-http://jessicas97.design
+https://jessicas97.netlify.com/
 
 ## Built with
 * JavaScript
